@@ -1,0 +1,7 @@
+/* In your CSS file or within styled-components */
+@media (max-width: 768px) {
+  table {
+    display: block;
+    overflow-x: auto;
+  }
+}
