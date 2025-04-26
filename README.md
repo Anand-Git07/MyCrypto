@@ -10,12 +10,13 @@ git clone https://github.com/your-username/crypto-tracker-app.git
 
 # 2. Navigate into the project directory
 cd crypto-tracker-app
-
 # 3. Install dependencies
 npm install
-
 # 4. Start the development server
 npm start
+
+
+
 
 ✨ Features
 	•	Displays live crypto prices for:
